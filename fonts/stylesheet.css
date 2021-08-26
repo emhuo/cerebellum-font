@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Cerebellum';
+    src: url('eot/CerebellumMini.eot');
+    src: url('eot/CerebellumMini.eot?#iefix') format('embedded-opentype'),
+        url('woff2/CerebellumMini.woff2') format('woff2'),
+        url('woff/CerebellumMini.woff') format('woff'),
+        url('ttf/CerebellumMini.ttf') format('truetype'),
+        url('svg/CerebellumMini.svg#CerebellumMini') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cerebellum';
+    src: url('eot/CerebellumBase.eot');
+    src: url('eot/CerebellumBase.eot?#iefix') format('embedded-opentype'),
+        url('woff2/CerebellumBase.woff2') format('woff2'),
+        url('woff/CerebellumBase.woff') format('woff'),
+        url('ttf/CerebellumBase.ttf') format('truetype'),
+        url('svg/CerebellumBase.svg#CerebellumBase') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cerebellum';
+    src: url('eot/CerebellumDoublespace.eot');
+    src: url('eot/CerebellumDoublespace.eot?#iefix') format('embedded-opentype'),
+        url('woff2/CerebellumDoublespace.woff2') format('woff2'),
+        url('woff/CerebellumDoublespace.woff') format('woff'),
+        url('ttf/CerebellumDoublespace.ttf') format('truetype'),
+        url('svg/CerebellumDoublespace.svg#CerebellumDoublespace') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cerebellum';
+    src: url('eot/CerebellumMonospace.eot');
+    src: url('eot/CerebellumMonospace.eot?#iefix') format('embedded-opentype'),
+        url('woff2/erebellumMonospace.woff2') format('woff2'),
+        url('woff/CerebellumMonospace.woff') format('woff'),
+        url('ttf/CerebellumMonospace.ttf') format('truetype'),
+        url('svg/CerebellumMonospace.svg#CerebellumMonospace') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cerebellum';
+    src: url('eot/CerebellumSmall.eot');
+    src: url('eot/CerebellumSmall.eot?#iefix') format('embedded-opentype'),
+        url('woff2/CerebellumSmall.woff2') format('woff2'),
+        url('woff/CerebellumSmall.woff') format('woff'),
+        url('ttf/CerebellumSmall.ttf') format('truetype'),
+        url('svg/CerebellumSmall.svg#CerebellumSmall') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cerebellum';
+    src: url('eot/CerebellumBold.eot');
+    src: url('eot/CerebellumBold.eot?#iefix') format('embedded-opentype'),
+        url('woff2/CerebellumBold.woff2') format('woff2'),
+        url('woff/CerebellumBold.woff') format('woff'),
+        url('ttf/CerebellumBold.ttf') format('truetype'),
+        url('svg/CerebellumBold.svg#CerebellumBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cerebellum';
+    src: url('eot/CerebellumSquare.eot');
+    src: url('eot/CerebellumSquare.eot?#iefix') format('embedded-opentype'),
+        url('woff2/CerebellumSquare.woff2') format('woff2'),
+        url('woff/CerebellumSquare.woff') format('woff'),
+        url('ttf/CerebellumSquare.ttf') format('truetype'),
+        url('svg/CerebellumSquare.svg#CerebellumSquare') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

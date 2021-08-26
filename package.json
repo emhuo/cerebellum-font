@@ -1,0 +1,19 @@
+{
+  "name": "cerebellum-fonts",
+  "version": "1.0.0",
+  "description": "A family of clean pixel fonts, including monospaced variants for programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emhuo/cerebellum-fonts.git"
+  },
+  "author": "Emily Huo",
+  "license": "OFL-1.1-RFN",
+  "bugs": {
+    "url": "https://github.com/emhuo/cerebellum-fonts/issues"
+  },
+  "homepage": "https://github.com/emhuo/cerebellum-fonts#readme"
+}
