@@ -33,7 +33,7 @@ ___
 Placeholder text. The quick brown fox jumped over the lazy dog.
 <p>
 
-![Character Map](https://github.com/emhuo/cerebellum-fonts/blob/main/img/unicode-blocks/block-latin.png?raw=true)
+![Character Map](https://github.com/emhuo/cerebellum-fonts/blob/main/img/unicode-blocks.png?raw=true)
 
 <p>
 
@@ -43,5 +43,5 @@ Placeholder text. The quick brown fox jumped over the lazy dog.
 
 <br>
 
-![Character Map](https://github.com/emhuo/cerebellum-fonts/blob/main/img/partial-blocks/symbols.png?raw=true)
+![Character Map](https://github.com/emhuo/cerebellum-fonts/blob/main/img/symbols-half.png?raw=true)
 <p>
