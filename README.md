@@ -3,7 +3,7 @@
 [![License: Open Font-1.1](https://img.shields.io/badge/License-OFL_1.1-9cf#:~:text=License-,License,-OFL)](https://opensource.org/licenses/OFL-1.1)  [![Github Published](https://img.shields.io/badge/github-published-blue?logo=github&logoColor=white&style=flat)](https://emhuo.github.io/cerebellum-fonts/)  [![Itch Published](https://img.shields.io/badge/itch.io-published-FA5C5C?logo=itchdotio&logoColor=fff&style=flat)](https://emhuo.itch.io/cerebellum-fonts)
 
 
-![Cerebellum Fonts Banner](https://github.com/emhuo/cerebellum-fonts/blob/main/FontBanner.png?raw=true)
+![Cerebellum Fonts Banner](https://github.com/emhuo/cerebellum-fonts/blob/main/cerebellum-banner.png?raw=true)
 <p>
 
 
@@ -15,7 +15,7 @@ ___
 
 ## ✨ - Overview
 
-A clean monospaced pixel font designed with care for retro game interfaces, code editors, and terminal use. A more polished expansion of a font that I originally created for FontJam on itch.io.
+A clean monospaced pixel font designed with care for retro game interfaces, code editors, and terminal use. A more polished expansion of NicoPups, a font that I originally created for FontJam on itch.io.
 
 #### Key Features
 - 1,744 Glyphs
@@ -50,7 +50,7 @@ ___
 
 <p>
 
-![Character Map](https://github.com/emhuo/cerebellum-fonts/blob/main/CharacterTable.png?raw=true)
+![Character Map](https://github.com/emhuo/cerebellum-fonts/blob/main/cerebellum-blocks.png?raw=true)
 
 <p>
 
@@ -60,5 +60,5 @@ ___
 
 <br>
 
-![Character Map](https://github.com/emhuo/cerebellum-fonts/blob/main/img/symbols-half.png?raw=true)
+![Character Map](https://github.com/emhuo/cerebellum-fonts/blob/main/cerebellum-symbols.png?raw=true)
 <p>
