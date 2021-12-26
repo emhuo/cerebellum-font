@@ -50,7 +50,7 @@ ___
 
 <p>
 
-![Character Map](https://github.com/emhuo/cerebellum-fonts/blob/main/cerebellum-blocks.png?raw=true)
+![Character Map](https://github.com/emhuo/cerebellum-backup/blob/main/cerebellum-blocks.png?raw=true)
 
 <p>
 
@@ -60,5 +60,5 @@ ___
 
 <br>
 
-![Character Map](https://github.com/emhuo/cerebellum-fonts/blob/main/cerebellum-symbols.png?raw=true)
+![Character Map](https://github.com/emhuo/cerebellum-backup/blob/main/cerebellum-symbols.png?raw=true)
 <p>
